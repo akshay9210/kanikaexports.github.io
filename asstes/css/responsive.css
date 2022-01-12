@@ -1,0 +1,110 @@
+@media(min-width:1200px) and (max-width:1600px) {}
+
+@media(min-width:992px) and (max-width:1199px) {
+    header .main-hearder .navbar-brand.logo h1 {
+        font-size: 30px;
+    }
+
+    header .main-hearder .navbar-brand.logo p {
+        font-size: 16px;
+    }
+
+    header .main-hearder .navbar-nav .nav-item .nav-link {
+        font-size: 11px;
+    }
+
+    /* banner-slider */
+    .banner {
+        padding: 30px 0px;
+    }
+
+    .banner .item .slider .slider-wrritng {
+        padding: 50px 60px;
+    }
+
+    .banner .item .slider .slider-wrritng h4 {
+        font-size: 26px;
+    }
+
+    .banner .item .slider .slider-wrritng p {
+        font-size: 12px;
+
+        padding: 20px 0px;
+    }
+
+    .banner .item .slider .slider-wrritng a {
+        font-size: 12px;
+    }
+
+    /* intro */
+    #intro {
+        padding: 30px 0px
+    }
+
+    #intro .title-wrraper .title-writing h4 {
+
+        padding-top: 20px;
+    }
+
+    #intro .title-wrraper .title-writing p {
+        font-size: 12px;
+        padding: 20px 0px;
+    }
+
+    /* service */
+    #service-pkg {
+        padding: 30px 0px;
+    }
+
+    #service-pkg .shout h4 {
+        font-size: 16px;
+        padding-bottom: 30px;
+    }
+
+    #service-pkg .frist-row {
+        padding: 10px;
+    }
+
+    /* footer */
+    footer #main-footer .blog h3 {
+
+        font-size: 18px;
+
+        padding-bottom: 20px;
+    }
+
+    footer #main-footer .blog p {
+
+        font-size: 12px;
+    }
+
+    footer #main-footer a {
+        font-size: 12px;
+    }
+
+    footer #main-footer .blog h4 {
+
+        font-size: 15px;
+    }
+
+    footer #main-footer .blog input[type="submit"] {
+
+        font-size: 12px;
+    }
+    .bottom .copy-right .domain h4 {
+        font-size: 10px;}
+        .bottom .copy-right .domain h5 {
+            font-size: 10px;}
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    header #top-header .icon a {
+        font-size: 18px;
+        height: 35px;
+        width: 35px;
+    }
+}
+
+@media(min-width:566px) and (max-width:767px) {}
+
+@media(max-width:565px) {}
